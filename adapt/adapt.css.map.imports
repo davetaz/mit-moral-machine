@@ -45,12 +45,6 @@
 @import 'src/menu/adapt-contrib-boxMenu/less/boxMenuItem.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_animations.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_colors.less';
-@import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_defaults/_animations.less';
-@import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_defaults/_colors.less';
-@import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_defaults/_font-config.less';
-@import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_defaults/_font-mixins.less';
-@import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_defaults/_spacing-config.less';
-@import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_defaults/_spacing-containers.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_font-config.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_font-mixins.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/_defaults/_spacing-config.less';
@@ -62,6 +56,7 @@
 @import 'src/theme/5ee351b2d140fe35be130b76/less/core/component.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/core/drawer.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/core/drawerItem.less';
+@import 'src/theme/5ee351b2d140fe35be130b76/less/core/global.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/core/loading.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/core/nav.less';
 @import 'src/theme/5ee351b2d140fe35be130b76/less/core/notify.less';

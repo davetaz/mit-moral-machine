@@ -1207,7 +1207,7 @@ this["Handlebars"]["templates"]["assessmentResults"] = Handlebars.template({"1":
     + ((stack1 = container.invokePartial(lookupProperty(partials,"component"),depth0,{"name":"component","data":data,"indent":"  ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
     + "\n  <div class=\"component__widget assessmentresults__widget\">\n\n"
     + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"_isRetryEnabled") : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":10,"column":4},"end":{"line":34,"column":11}}})) != null ? stack1 : "")
-    + "\n  </div>\n\n</div>";
+    + "\n  </div>\n\n</div>\n";
 },"usePartial":true,"useData":true});
 
 this["Handlebars"]["templates"]["articleBlockSlider-article"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {

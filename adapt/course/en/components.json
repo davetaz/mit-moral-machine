@@ -45,6 +45,7 @@
           "alt": "",
           "attribution": ""
         },
+        "text": "Avoid Intervention",
         "direction": "go straight",
         "saved characters": [
           {
@@ -74,6 +75,7 @@
           "alt": "",
           "attribution": ""
         },
+        "text": "Intervene",
         "direction": "swerve",
         "saved characters": [
           {
@@ -2794,19 +2796,19 @@
       "datasets": [
         {
           "label": "Make an intervention",
-          "backgroundColor": "rgba(179,181,198,0.2)",
-          "borderColor": "rgba(179,181,198,1)",
-          "pointBackgroundColor": "rgba(179,181,198,1)",
-          "pointBorderColor": "#fff",
-          "pointHoverBackgroundColor": "#fff",
-          "pointHoverBorderColor": "rgba(179,181,198,1)",
-          "dataURL": "https://raw.githubusercontent.com/theodi/training-web/gh-pages/test-data-for-chartsjs.json",
+          "backgroundColor": "rgba(0, 182, 255, 1)",
+          "borderColor": "rgba(0, 182, 255, 1)",
+          "pointBackgroundColor": "rgba(0, 182, 255, 1)",
+          "pointBorderColor": "#00b6ff",
+          "pointHoverBackgroundColor": "#00b6ff",
+          "pointHoverBorderColor": "rgba(0, 182, 255, 1)",
+          "dataURL": "https:///learning-locker-api.herokuapp.com?activity=https://learning.theodi.org/xapi/activities/mit-moral-machine-test%23/id/630f80516b4097008b2afd6c_branching_0&format=chartjs",
           "data": [
-            65,
-            59,
-            90,
-            81,
-            56
+            0,
+            0,
+            0,
+            0,
+            0
           ]
         }
       ]
@@ -2880,20 +2882,19 @@
       ],
       "datasets": [
         {
-          "label": "Avoid Intervention",
-          "backgroundColor": "rgba(179,181,198,0.2)",
-          "borderColor": "rgba(179,181,198,1)",
-          "pointBackgroundColor": "rgba(179,181,198,1)",
-          "pointBorderColor": "#fff",
-          "pointHoverBackgroundColor": "#fff",
-          "pointHoverBorderColor": "rgba(179,181,198,1)",
-          "dataURL": "https://raw.githubusercontent.com/theodi/training-web/gh-pages/test-data-for-chartsjs.json",
+          "backgroundColor": "rgba(0, 182, 255, 1)",
+          "borderColor": "rgba(0, 182, 255, 1)",
+          "pointBackgroundColor": "rgba(0, 182, 255, 1)",
+          "pointBorderColor": "#00b6ff",
+          "pointHoverBackgroundColor": "#00b6ff",
+          "pointHoverBorderColor": "rgba(0, 182, 255, 1)",
+          "dataURL": "https:///learning-locker-api.herokuapp.com?activity=https://learning.theodi.org/xapi/activities/mit-moral-machine-test%23/id/630f81656b4097008b2afd6f_branching_0&format=chartjs",
           "data": [
-            65,
-            59,
-            90,
-            81,
-            56
+            0,
+            0,
+            0,
+            0,
+            0
           ]
         }
       ]
